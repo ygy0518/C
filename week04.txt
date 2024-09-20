@@ -1,2 +1,7 @@
 4주차 수업내용
 -리눅스 기초 명령
+pwd
+기초 깃 명령어
+fatch
+git config --list
+ggit config --global user.
